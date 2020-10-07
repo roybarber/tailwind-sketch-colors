@@ -12,6 +12,13 @@ Then simply color in your layers with the default color variables or later style
 
 Read more about Sketch's new color variables here: https://www.sketch.com/docs/styling/#organizing-color-variables
 
+### Why are there two libraries?
+
+Tailwind CSS and Tailwind UI use a different color palette. Tailwind UI includes a brand new color palette that is more consistent across colors, and more vivid than the default Tailwind CSS color palette. It also includes a new "50" shade, so there are now 10 shades per color instead of 9. See below:
+
+Tailwind CSS Default Colors: https://tailwindcss.com/docs/background-color  
+Tailwind UI Default Colors: https://tailwindui.com/documentation#customizing-colors
+
 ### What are there components, later styles and color variables?
 
 Some people like to insert a component and mask the layer to be able to update the color on a UI component, others like to change the layer style and now we have color variables. As time goes on we will remove the color components and then the layer styles.
