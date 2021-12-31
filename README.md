@@ -1,6 +1,6 @@
-# Tailwind Color Palettes for Sketch
+# Tailwind 3 Color Palettes for Sketch
 
-Sketch Libraries for Tailwind CSS & Tailwind UI's default color palettes.
+Sketch Libraries for Tailwind 3 CSS & Tailwind UI's default color palettes.
 
 ![](https://user-images.githubusercontent.com/2923782/95322495-7f5e4a80-0894-11eb-88f9-558e4a059aaf.png)
 
@@ -12,12 +12,7 @@ Then simply color in your layers with the default color variables or later style
 
 Read more about Sketch's new color variables here: https://www.sketch.com/docs/styling/#organizing-color-variables
 
-### Why are there two libraries?
-
-Tailwind CSS and Tailwind UI use a different color palette. Tailwind UI includes a brand new color palette that is more consistent across colors, and more vivid than the default Tailwind CSS color palette. It also includes a new "50" shade, so there are now 10 shades per color instead of 9. See below:
-
-Tailwind CSS Default Colors: https://tailwindcss.com/docs/background-color  
-Tailwind UI Default Colors: https://tailwindui.com/documentation#customizing-colors
+Tailwind 3 Default Colors can be found here: https://tailwindcss.com/docs/customizing-colors 
 
 ### What are there components, later styles and color variables?
 
